@@ -12,9 +12,9 @@ TagManager:
   - Camera
   - Water
   - UI
-  - 
-  - 
-  - 
+  - Player
+  - Enemy
+  - Soldier
   - 
   - 
   - 
